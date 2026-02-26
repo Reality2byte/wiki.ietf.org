@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-02-24T05:53:18.613Z
+date: 2026-02-26T15:49:29.442Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -154,7 +154,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Sunday, March 15, 2026
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
-* 1430 - 1530 -- RTG AD Office Hours (Ketan - tentative)
+* 1430 - 1530 -- RTG AD Office Hours (Ketan, Gunter)
 * TIME - TIME -- Thing (Person responsible)
 
 ## Monday, March 16, 2026
@@ -178,6 +178,8 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 ## Thursday, March 19, 2026
 * 1000 - 1100 -- INT ADs office hour (tentative Éric V, not to be made public yet)
+* 12:45 - 13:45: Benchmarking & IP Performance (Med)
+
 * TIME - TIME -- Thing (Person responsible)
 
 

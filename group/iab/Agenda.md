@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-04T22:24:18.032Z
+date: 2026-09-06T12:21:12.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -11,7 +11,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 # IAB Informal Meeting Agenda: 2026-09-16, 23:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-09-16
+## There WILL be a meeting on 2026-09-16
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
@@ -25,12 +25,18 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Agenda
 
 
-### 1. Topic:
+### 1. Topic: IAB Workshop for PQ Authentication
 
-Context:
+Context: https://datatracker.ietf.org/group/pqws/about/
 
-Goal: 
+Goal: Provide an update to the IAB
 
+
+### 2. Topic: IAB Strategy Meeting 
+
+Context: https://wiki.ietf.org/group/iab/2026_Retreat
+
+Goal: Discuss draft agenda
 
 ## Regrets
 

@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-31T15:35:11.768Z
+date: 2026-09-06T13:14:22.521Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -59,6 +59,10 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 ### Regrets
 - Jason Livingood
 - Jana Iyengar
+
+## Guidance
+- Please add slides (if any) to the agenda in the wiki
+- Please provide an oppurtunity for others to review in advance
 
 ## Agenda - TBD
 

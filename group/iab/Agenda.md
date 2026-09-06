@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-06T12:21:12.082Z
+date: 2026-09-06T12:50:56.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -37,6 +37,12 @@ Goal: Provide an update to the IAB
 Context: https://wiki.ietf.org/group/iab/2026_Retreat
 
 Goal: Discuss draft agenda
+
+### 3. Topic: IAB Liaison to TDD
+
+Context: https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing
+
+Goal: Feedback on the updated proposal
 
 ## Regrets
 
